@@ -1,2 +1,2 @@
-# M66 OpenCPU-Documentation
+# M66 OpenCPU-User Manual
 
